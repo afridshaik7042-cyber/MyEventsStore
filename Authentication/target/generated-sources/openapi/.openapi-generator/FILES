@@ -1,0 +1,9 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/org/openapitools/api/ApiUtil.java
+src/main/java/org/openapitools/api/AuthApi.java
+src/main/java/org/openapitools/model/AuthResponse.java
+src/main/java/org/openapitools/model/LogInRequest.java
+src/main/java/org/openapitools/model/SignInRequest.java
+src/main/java/org/openapitools/model/SignInResponse.java

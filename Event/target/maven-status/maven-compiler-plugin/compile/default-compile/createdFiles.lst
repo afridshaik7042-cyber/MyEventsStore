@@ -1,0 +1,16 @@
+com\event\Event\Repository\EventsRepository.class
+com\event\Event\EventApplication.class
+com\event\Event\ExceptionHandler\UnauthorizedException.class
+com\event\Event\Repository\FavEventsRepository.class
+com\event\Event\Model\ErrorMessage.class
+com\event\Event\Model\Event.class
+com\event\Event\Service\JwtFilter.class
+com\event\Event\Entity\FavouriteEvents.class
+com\event\Event\Controllers\EventsController.class
+com\event\Event\Model\EventAddResponse.class
+com\event\Event\Configuration\SecurityConfig.class
+com\event\Event\Model\EventStatus.class
+com\event\Event\Service\EventService.class
+com\event\Event\ExceptionHandler\GlobalExceptionHandler.class
+com\event\Event\Model\EventMessage.class
+com\event\Event\Entity\EventEntity.class

@@ -1,0 +1,5 @@
+com\example\notificationService\Repository\EventRepository.class
+com\example\notificationService\Model\EventJob.class
+com\example\notificationService\NotificationServiceApplication.class
+com\example\notificationService\Service\Notification.class
+com\example\notificationService\Model\EventMessage.class
